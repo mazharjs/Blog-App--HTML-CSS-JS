@@ -1,0 +1,41 @@
+.mt-10 {
+    margin-top: 10px;
+}
+
+.img-w-h {
+    width: 80px;
+    height: 80px;
+}
+
+.w-70p{
+    /* width: 65% !important; */
+    width: 881px !important;
+}
+.m-l-10p{
+    margin-left: 10% !important;
+}
+.t-d{
+    text-decoration: none !important;
+}
+.color{
+    color:blueviolet;
+}
+.color-w{
+    color: white;
+}
+.bold{
+    font-weight:700 !important;
+}
+.boldm{
+    font-weight: 900;
+}
+.color-b{
+    color: black !important;
+}
+.t-r-align{
+    text-align: right;
+}
+.border-n{
+    border: none;
+    padding: 5px;
+}

@@ -1,0 +1,251 @@
+* {
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.logo a {
+    text-decoration: none !important;
+    font-size: 18px;
+}
+
+.fluid {
+    width: 100%;
+    height: 50px;
+    background-color: blueviolet;
+}
+
+.fluid ul {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+
+.fluid ul li {
+    list-style: none;
+    font-size: 18px;
+    color: white;
+    padding: 10px;
+}
+
+.fluid ul li a {
+    color: white;
+}
+
+.g-morning {
+    margin-top: 18px;
+}
+
+.card1 {
+    margin-top: 70px !important;
+
+}
+
+.int-p {
+    padding-left: 25px !important;
+}
+
+.side-img {
+    width: 300px !important;
+    height: 293px !important;
+
+
+}
+
+/* -----signup-foam style start--- */
+
+.signup-foam {
+    color: black;
+    height: 480px;
+    width: 360px;
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
+    background: transparent;
+    border: none;
+    margin: auto !important;
+}
+
+
+.signup-foam form {
+    margin-top: 80px;
+    width: 320px !important;
+    margin-left: 20px !important;
+}
+
+.signup-foam form label {
+    display: flex;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.signup-foam form input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid grey !important;
+    border-radius: 5px !important;
+    outline-color: blueviolet !important;
+}
+
+.signup-foam form button {
+    text-align: center;
+    margin-top: 20px !important;
+    margin-left: 90px;
+    Width: 87px;
+    Height: 38px;
+    Padding: 10px, 16px, 10px, 16px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+
+/* -----signup-foam style end--- */
+
+.login-bodyss {
+    margin-top: 100px !important;
+
+    color: rgb(0, 0, 0);
+}
+
+.login-foam {
+    color: rgb(0, 0, 0);
+    height: 260px;
+    width: 456px;
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
+    background: transparent;
+    border: none;
+    margin: auto !important;
+}
+
+.login-foam form {
+    margin-top: 115px;
+    width: 320px !important;
+    margin-left: 70px !important;
+
+}
+
+.login-foam form label {
+    display: flex;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.login-foam form input {
+    width: 100%;
+    padding: 7px;
+    border: 1px solid grey !important;
+    border-radius: 5px !important;
+    outline: none !important;
+}
+
+.login-foam form button {
+    text-align: center;
+    margin-top: 20px !important;
+    margin-left: 90px;
+    Width: 87px;
+    Height: 38px;
+    Padding: 10px, 16px, 10px, 16px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+.login-foam form p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 13px;
+}
+
+.login-bodyss p {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 20px;
+}
+
+/* -----login-foamstyle end--- */
+
+.postarea {
+    padding-top: 40px;
+    margin-top: 30px;
+    width: 881px !important;
+    height: 330px !important;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.12),
+        0px 4px 10px rgba(0, 0, 0, 0.12),
+        0px 4px 10px rgba(0, 0, 0, 0.12),
+        0px 4px 10px rgba(0, 0, 0, 0.12);
+}
+
+.postarea input {
+    margin: auto;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    outline-color: blueviolet;
+    margin-top: 5px;
+    display: flex;
+    width: 760px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+
+}
+
+.contentInput {
+    height: 114px;
+    padding: 16px;
+}
+
+.btn-publish {
+    text-align: center;
+    margin-top: 20px !important;
+    margin-left: 50px;
+    width: 135px;
+    Height: 38px;
+    Padding: 10px, 16px, 10px, 16px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+
+.id-name {
+    color: white;
+    text-align: right;
+    color: white;
+
+    margin-left: 761px;
+    margin-top: 8px;
+}
+
+.btn-2 {
+    text-align: center;
+    margin-top: 20px !important;
+    margin-left: 90px;
+    Width: 140px;
+    Height: 38px;
+    Padding: 10px, 16px, 10px, 16px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+.changePassword{
+    color: black;
+    height: 480px;
+    width: 360px;
+    background: transparent;
+    border: none;
+    
+}
+
+.changePassword form input {
+    width: 100%;
+    padding: 7px;
+    border: 1px solid grey !important;
+    border-radius: 5px !important;
+    margin-top: 5px;
+    outline-color: blueviolet;
+}
